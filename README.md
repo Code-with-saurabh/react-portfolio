@@ -4,7 +4,7 @@
 
 A sleek, animated, and modern **developer portfolio website** built using **React**, **TailwindCSS**, **Framer Motion**, and more. Designed to showcase your work, skills, and GitHub contributions — with a responsive layout and smooth UI effects.
 
-> 🟢 **Live Demo**: [Saurabh Portfolio](https://github.com/Code-with-saurabh/react-portfolio/)
+> 🟢 **Live Demo**: [Saurabh Portfolio](https://saurabhsharmaportfolio.netlify.app)
 
 ---
 
