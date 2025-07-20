@@ -4,7 +4,7 @@
 
 A sleek, animated, and modern **developer portfolio website** built using **React**, **TailwindCSS**, **Framer Motion**, and more. Designed to showcase your work, skills, and GitHub contributions — with a responsive layout and smooth UI effects.
 
-> 🟢 **Live Demo**: [portfolio-code-with-saurabh.vercel.app](https://portfolio-code-with-saurabh.vercel.app)
+> 🟢 **Live Demo**: [Saurabh Portfolio](https://github.com/Code-with-saurabh/react-portfolio/)
 
 ---
 
@@ -16,7 +16,7 @@ A sleek, animated, and modern **developer portfolio website** built using **Reac
 - 💡 Lucide Icons
 - 🔥 Vite
 - 🧠 Skill Icons
-- ☁️ Deployed on [Vercel](https://vercel.com)
+ 
 
 ---
 
